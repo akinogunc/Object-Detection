@@ -1,6 +1,6 @@
 # Mask R-CNN for object Detection and Segmentation using Codebase JSON version
 
-This repo is a dirivated version of the [Mask-RCNN-TF2](https://github.com/ahmedfgad/Mask-RCNN-TF2) project but leveraging json annotations.
+This repo is a derivated version of the [Mask-RCNN-TF2](https://github.com/ahmedfgad/Mask-RCNN-TF2) project but leveraging json annotations.
 The idea is to pick an object and make some transfert learning to be able to detect it.
 To do so we need to annotate the data using the [VGG-IMAGE-ANNOTATION](https://www.robots.ox.ac.uk/~vgg/software/via/via-1.0.6.html).
 
